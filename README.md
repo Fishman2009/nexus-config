@@ -1,5 +1,6 @@
 # nexus-config
 Config Nexus for sbt maven gradle ant
+
 增加sbt repositories文件配置
 ```
 cp ./sbt-repositories ~/.sbt/repositories
